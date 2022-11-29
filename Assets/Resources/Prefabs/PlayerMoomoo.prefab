@@ -10363,7 +10363,7 @@ MonoBehaviour:
   state: 0
   previousState: 0
   slowriseGravity: 1.05
-  normalGravity: 3.25
+  normalGravity: 4
   flyingGravity: 0.8
   flyingTerminalVelocity: 1.40625
   drillVelocity: 7.5
