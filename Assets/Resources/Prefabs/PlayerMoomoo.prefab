@@ -10374,7 +10374,7 @@ MonoBehaviour:
   jumpVelocity: 7.6
   megaJumpVelocity: 15
   launchVelocity: 12
-  wallslideSpeed: -4.6875
+  wallslideSpeed: -1
   giantStartTime: 1.5
   soundRange: 10
   slopeSlidingAngle: 12.5
