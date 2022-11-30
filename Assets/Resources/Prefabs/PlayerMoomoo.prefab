@@ -10367,7 +10367,7 @@ MonoBehaviour:
   flyingGravity: 0.8
   flyingTerminalVelocity: 1.40625
   drillVelocity: 9
-  groundpoundTime: 0.15
+  groundpoundTime: 0
   groundpoundVelocity: 14
   blinkingSpeed: 0.25
   terminalVelocity: -8
