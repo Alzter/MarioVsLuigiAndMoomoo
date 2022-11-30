@@ -25,7 +25,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - EyeTextures:
-        m_Texture: {fileID: 18700000, guid: 0c7075bdf9d5a0b4b8268a0f60ff65a3, type: 3}
+        m_Texture: {fileID: 18700000, guid: 2c010d7564aa4d94db0d110f73e3eb80, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - FireFlowerTexture:
