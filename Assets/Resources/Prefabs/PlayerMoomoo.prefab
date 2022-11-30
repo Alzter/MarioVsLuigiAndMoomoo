@@ -10367,7 +10367,7 @@ MonoBehaviour:
   flyingGravity: 0.8
   flyingTerminalVelocity: 1.40625
   drillVelocity: 9
-  groundpoundTime: 0.2
+  groundpoundTime: 0.15
   groundpoundVelocity: 14
   blinkingSpeed: 0.25
   terminalVelocity: -8
@@ -10378,7 +10378,7 @@ MonoBehaviour:
   giantStartTime: 1.5
   soundRange: 10
   slopeSlidingAngle: 12.5
-  pickupTime: 0.3
+  pickupTime: 0.25
   propellerLaunchVelocity: 6
   propellerFallSpeed: 2
   propellerSpinFallSpeed: 1.5
