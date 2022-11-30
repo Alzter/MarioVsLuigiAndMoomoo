@@ -110,7 +110,7 @@ public static class Enums {
         [SoundData("powerup/megamushroom_break_pipe")]          Powerup_MegaMushroom_Break_Pipe = 49,
         [SoundData("powerup/megamushroom_end")]                 Powerup_MegaMushroom_End = 50,
         [SoundData("powerup/megamushroom_groundpound")]         Powerup_MegaMushroom_Groundpound = 51,
-        [SoundData("powerup/megamushroom_jump")]                Powerup_MegaMushroom_Jump = 52,
+        [SoundData("character/{char}/megamushroom_jump")]                Powerup_MegaMushroom_Jump = 52,
         [SoundData("powerup/megamushroom_walk")]                Powerup_MegaMushroom_Walk = 53,
         [SoundData("powerup/minimushroom_collect")]             Powerup_MiniMushroom_Collect = 45, //HARDCODED: DO NOT CHANGE WITHOUT CHANGING POWERUPS SCRIPTABLES
         [SoundData("powerup/minimushroom_groundpound")]         Powerup_MiniMushroom_Groundpound = 54,
