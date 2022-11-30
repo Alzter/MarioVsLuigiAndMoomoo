@@ -10363,16 +10363,16 @@ MonoBehaviour:
   state: 0
   previousState: 0
   slowriseGravity: 1.4
-  normalGravity: 4.75
+  normalGravity: 4.8
   flyingGravity: 0.8
   flyingTerminalVelocity: 1.40625
-  drillVelocity: 7.5
-  groundpoundTime: 0.1
+  drillVelocity: 9
+  groundpoundTime: 0.2
   groundpoundVelocity: 14
   blinkingSpeed: 0.25
   terminalVelocity: -8
   jumpVelocity: 7.6
-  megaJumpVelocity: 12.65625
+  megaJumpVelocity: 15
   launchVelocity: 12
   wallslideSpeed: -4.6875
   giantStartTime: 1.5
