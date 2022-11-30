@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   soundFolder: moomoo
   prefab: PlayerMoomoo
-  uistring: <sprite=4>
+  uistring: <sprite=49>
   loadingSmallSprite: {fileID: -3599161207798135845, guid: a7245cae141f3ee449147539ebd2a2c9,
     type: 3}
   loadingBigSprite: {fileID: -309644342959843524, guid: a7245cae141f3ee449147539ebd2a2c9,
