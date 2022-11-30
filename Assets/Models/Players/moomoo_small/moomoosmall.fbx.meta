@@ -648,6 +648,9 @@ ModelImporter:
   - first:
       74: -2598022806238239279
     second: small_model|zero_g_walk_small_model
+  - first:
+      74: -8612779932706794976
+    second: small_model|Moomoo_lowpolyAction
   externalObjects: {}
   materials:
     materialImportMode: 2
